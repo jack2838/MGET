@@ -2,4 +2,4 @@
 # TITLE : URL : VER
 @test: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/test.lua:[bingus]
 @test2: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/test2.lua
-@bingus: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/bingus.lua [test2]
+@bingus: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/bingus.lua:[test2]
