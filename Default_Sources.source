@@ -1,5 +1,5 @@
 # Lines that start with "#" are a comment
 # TITLE : URL : VER
 @test: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/test.lua:[bingus,test2]
-@test2: raw.githubusercontent.com/jack2838/MGET/blob/main/Default%20Sources/test2.lua
-@bingus: raw.githubusercontent.com/jack2838/MGET/blob/main/Default%20Sources/bingus.lua
+@test2: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/test2.lua
+@bingus: raw.githubusercontent.com/jack2838/MGET/main/Default%20Sources/bingus.lua
